@@ -52,7 +52,8 @@ Total: ~8 hours
 
 ## Deployment
 
-This site can be deployed on Vercel with a single click using the Vercel deployment platform.
+This site is deployed on Vercel and can be accessed using following link: 
+https://v0-soft-sell-website-design.vercel.app/
 
 ## Future Enhancements
 
